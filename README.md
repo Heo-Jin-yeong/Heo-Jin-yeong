@@ -11,7 +11,7 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand: I am a DevOps Engineer from South Korea.<br/>
+  #### :computer: I am a DevOps Engineer from South Korea.<br/>
   #### :fire: I aim to become a DevOps AI Engineer.<br/>
   #### :mortar_board: Korean Education Minister Awards Bachelor of Science Degree in Computer Engineering.
   <br/>
@@ -81,8 +81,6 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=flat-aquare&logo=figma&logoColor=white" />
   <br/>
   <br/>
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heo-Jin-yeong&layout=compact)
   
 <!--
   ## 🤔 Github Stats
