@@ -64,8 +64,12 @@
   <img src="https://img.shields.io/badge/Git-F05032.svg?style=flat-aquare&logo=git&logoColor=white" />
   <!--MySQL-->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <!--MariaDB-->
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
   <!--PostgreSQL-->
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <!--MSSQL-->
+  <img src="https://img.shields.io/badge/MSSQL-DDDF72?style=flat-square&logo=&logoColor=white"/>
   <br/>
   <!--Slack-->
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
