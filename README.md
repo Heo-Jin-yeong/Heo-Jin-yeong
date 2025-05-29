@@ -49,6 +49,8 @@
   <br/>
 
   ### ETC
+  <!--Git-->
+  <img src="https://img.shields.io/badge/Git-F05032.svg?style=flat-aquare&logo=git&logoColor=white" />
   <!--Rocky Linux-->
   <img src="https://img.shields.io/badge/Rocky Linux-10B981.svg?style=flat-aquare&logo=rockylinux&logoColor=white" />
   <!--Git-->
@@ -60,8 +62,6 @@
   <!--Wireshark-->
   <img src="https://img.shields.io/badge/Wireshark-1679A7.svg?style=flat-aquare&logo=wireshark&logoColor=white" />
   <br/>
-  <!--Git-->
-  <img src="https://img.shields.io/badge/Git-F05032.svg?style=flat-aquare&logo=git&logoColor=white" />
   <!--MySQL-->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <!--MariaDB-->
@@ -70,6 +70,8 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
   <!--MSSQL-->
   <img src="https://img.shields.io/badge/MSSQL-DDDF72?style=flat-square&logo=&logoColor=white"/>
+  <!--Oracle-->
+  <img src="https://img.shields.io/badge/Oracle-DA291C?style=flat-square&logo=&logoColor=white"/>
   <br/>
   <!--Slack-->
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
