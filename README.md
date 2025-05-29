@@ -53,10 +53,17 @@
   <img src="https://img.shields.io/badge/Git-F05032.svg?style=flat-aquare&logo=git&logoColor=white" />
   <!--Rocky Linux-->
   <img src="https://img.shields.io/badge/Rocky Linux-10B981.svg?style=flat-aquare&logo=rockylinux&logoColor=white" />
-  <!--Git-->
+  <!--CentOS-->
   <img src="https://img.shields.io/badge/CentOS-EE0000.svg?style=flat-aquare&logo=redhat&logoColor=white" />
+  <br/>
   <!--Amazon AWS-->
   <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=flat-aquare&logo=amazonwebservices&logoColor=white" />
+  <!--Amazon API Gateway-->
+  <img src="https://img.shields.io/badge/AWS API Gateway-FF4F8B.svg?style=flat-aquare&logo=amazonapigateway&logoColor=white" />
+  <!--Amazon Lambda-->
+  <img src="https://img.shields.io/badge/AWS Lambda-FF9900.svg?style=flat-aquare&logo=awslambda&logoColor=white" />
+  <!--Amazon Bedrock-->
+  <img src="https://img.shields.io/badge/AWS Bedrock-00B388.svg?style=flat-aquare&logo=&logoColor=white" />
   <!--GCP-->
   <img src="https://img.shields.io/badge/GCP-4285F4.svg?style=flat-aquare&logo=google&logoColor=white" />
   <!--Wireshark-->
