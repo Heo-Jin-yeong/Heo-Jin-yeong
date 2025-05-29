@@ -81,6 +81,9 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=flat-aquare&logo=figma&logoColor=white" />
   <br/>
   <br/>
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heo-Jin-yeong&layout=compact)
+  
 <!--
   ## 🤔 Github Stats
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heo-Jin-yoeng)](https://github.com/anuraghazra/github-readme-stats)
