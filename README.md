@@ -30,21 +30,22 @@
   <br/>
 
   ### Framework
+  <!--Spring-->
+  <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=flat-aquare&logo=spring&logoColor=white" />
   <!--SpringBoot-->
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F.svg?style=flat-aquare&logo=springboot&logoColor=white" />
-  <!--.NET-->
-  <img src="https://img.shields.io/badge/.NET-512BD4.svg?style=flat-aquare&logo=dotnet&logoColor=white" />
+  <!--Spring Security-->
+  <img src="https://img.shields.io/badge/Spring Security-6DB33F.svg?style=flat-aquare&logo=springsecurity&logoColor=white" />
+  <!--Spring Data JPA-->
+  <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F.svg?style=flat-aquare&logo=&logoColor=white" />
+  <br/>
   <!--React-->
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white&Color=white"/>
   <!--Vue-->
   <img src="https://img.shields.io/badge/Vue-4FC08D.svg?style=flat-aquare&logo=vuedotjs&logoColor=white" />
   <br/>
-
-  ### Library
-  <!--PyTorch-->
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
-  <!--Selenium-->
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
+  <!--.NET-->
+  <img src="https://img.shields.io/badge/.NET-512BD4.svg?style=flat-aquare&logo=dotnet&logoColor=white" />
   <br/>
 
   ### ETC
